@@ -1,0 +1,159 @@
+{
+  "accounts": [
+    {
+      "address": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+      "amount": 1999999999994000,
+      "amount-without-pending-rewards": 1999999999994000,
+      "apps-total-schema": {
+        "num-byte-slice": 0,
+        "num-uint": 1
+      },
+      "assets": [
+        {
+          "amount": 999995,
+          "asset-id": 1,
+          "is-frozen": false
+        },
+        {
+          "amount": 1000000,
+          "asset-id": 2,
+          "is-frozen": false
+        }
+      ],
+      "created-apps": [
+        {
+          "id": 5,
+          "params": {
+            "approval-program": "BSACAAEmAQVDb3VudDEYIhJAAHIxGSMSQABpMRmBAhJAAF8xGYEEEkAAVTEZgQUSQABLMRkiEkAAAQAyBCMSRDYaAIADQWRkEkAAJjYaAIAGRGVkdWN0EkAAAQAoZDUANAAiDUAAAiNDKDQAIwlnQv/1KGQ1ACg0ACMIZyNDIkMiQyJDIkMoImcjQw==",
+            "clear-state-program": "BYEBQw==",
+            "creator": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "global-state": [
+              {
+                "key": "Q291bnQ=",
+                "value": {
+                  "bytes": "",
+                  "type": 2,
+                  "uint": 2
+                }
+              }
+            ],
+            "global-state-schema": {
+              "num-byte-slice": 0,
+              "num-uint": 1
+            }
+          }
+        }
+      ],
+      "created-assets": [
+        {
+          "index": 1,
+          "params": {
+            "clawback": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "creator": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "decimals": 0,
+            "freeze": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "manager": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "name": "Ayushman First",
+            "name-b64": "QXl1c2htYW4gRmlyc3Q=",
+            "reserve": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "total": 1000000,
+            "unit-name": "AF",
+            "unit-name-b64": "QUY="
+          }
+        },
+        {
+          "index": 2,
+          "params": {
+            "clawback": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "creator": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "decimals": 3,
+            "freeze": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "manager": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "name": "F Ayushman First",
+            "name-b64": "RiBBeXVzaG1hbiBGaXJzdA==",
+            "reserve": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+            "total": 1000000,
+            "unit-name": "FAF",
+            "unit-name-b64": "RkFG"
+          }
+        }
+      ],
+      "min-balance": 428500,
+      "participation": {
+        "selection-participation-key": "l6DFRLQFPl8wUcRfBEbiZfh+ONGtvUHPEqrW0fxVrpo=",
+        "state-proof-key": "zFkyt4etRyYR+jgsf9XmO38d77lFmlyK7rsxDHBbdwzJbGz0DJU0EGhlvmeH2nyN15g3735ZB7i12NIrnLjHIQ==",
+        "vote-first-valid": 0,
+        "vote-key-dilution": 100,
+        "vote-last-valid": 30000,
+        "vote-participation-key": "1XjNA2cdyceG+Iad4UbqLN4Ip+g6hzqOfBaLkXykjsI="
+      },
+      "pending-rewards": 0,
+      "rewards": 0,
+      "round": 7,
+      "status": "Online",
+      "total-apps-opted-in": 0,
+      "total-assets-opted-in": 2,
+      "total-created-apps": 1,
+      "total-created-assets": 2
+    },
+    {
+      "address": "2SYXFSCZAQCZ7YIFUCUZYOVR7G6Y3UBGSJIWT4EZ4CO3T6WVYTMHVSANOY",
+      "amount": 0,
+      "amount-without-pending-rewards": 0,
+      "min-balance": 100000,
+      "pending-rewards": 0,
+      "rewards": 0,
+      "round": 7,
+      "status": "Offline",
+      "total-apps-opted-in": 0,
+      "total-assets-opted-in": 0,
+      "total-created-apps": 0,
+      "total-created-assets": 0
+    }
+  ],
+  "apps": [
+    {
+      "id": 5,
+      "params": {
+        "approval-program": "BSACAAEmAQVDb3VudDEYIhJAAHIxGSMSQABpMRmBAhJAAF8xGYEEEkAAVTEZgQUSQABLMRkiEkAAAQAyBCMSRDYaAIADQWRkEkAAJjYaAIAGRGVkdWN0EkAAAQAoZDUANAAiDUAAAiNDKDQAIwlnQv/1KGQ1ACg0ACMIZyNDIkMiQyJDIkMoImcjQw==",
+        "clear-state-program": "BYEBQw==",
+        "creator": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+        "global-state": [
+          {
+            "key": "Q291bnQ=",
+            "value": {
+              "bytes": "",
+              "type": 2,
+              "uint": 2
+            }
+          }
+        ],
+        "global-state-schema": {
+          "num-byte-slice": 0,
+          "num-uint": 1
+        }
+      }
+    }
+  ],
+  "latest-timestamp": 1678858473,
+  "protocol-version": "https://github.com/algorandfoundation/specs/tree/44fa607d6051730f5264526bf3c108d51f0eadb6",
+  "round": 7,
+  "sources": null,
+  "txns": [
+    {
+  "txn": {
+    "apaa": [
+      "RGVkdWN0"
+    ],
+    "apid": 5,
+    "fee": 1000,
+    "fv": 8,
+    "gh": "Oxw8Oa2g1L/+0/lDTQnsZy6ft7bKFzq/QQH5y1aXOYg=",
+    "lv": 1008,
+    "note": "q3k8+0niNy0=",
+    "snd": "A6NFDI6SRN5ATO6ACUHZMOEJLZ6AFD4GVYGIYI4MVDI2U6NBFMJ4VYQZW4",
+    "type": "appl"
+  }
+}
+  ]
+}
